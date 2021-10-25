@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{3BBA8816-2938-444F-A29B-87E65EA891BA}|Default">
+  <MonoDevelop.Ide.ItemProperties.BakeryApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BakeryApplication/PostgreSQL.cs">
+    <Files>
+      <File FileName="BakeryApplication/Program.cs" Line="17" Column="1" />
+      <File FileName="BakeryApplication/StyleGUI.cs" />
+      <File FileName="BakeryApplication/MainWindow.cs" />
+      <File FileName="BakeryApplication/Pages/Pages/HomePage.cs" />
+      <File FileName="BakeryApplication/Pages/Pages/CalculatorPage.cs" />
+      <File FileName="BakeryApplication/Pages/Pages/InventoryPage.cs" />
+      <File FileName="BakeryApplication/PostgreSQL.cs" Line="17" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BakeryApplication" expanded="True">
+            <Node name="BakeryApplication" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Pages" expanded="True" />
+              </Node>
+              <Node name="PostgreSQL.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
