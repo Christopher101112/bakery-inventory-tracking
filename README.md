@@ -5,7 +5,7 @@ Inventory tracking application for Rice & Beans, LLC.
 
 DEMONSTRATION
 
-To see a 5-minute YouTube video explaining and demonstrating this program, follow this link: To be added.
+To see a 3-minute YouTube video explaining and demonstrating this program, follow this link: https://youtu.be/JueV3Qauh2g.
 
 PERMISSIONS
 
